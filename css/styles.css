@@ -1,3 +1,9 @@
 body {
-    background-image: linear-gradient(to right bottom, #ffc1d8, #ffc7c3, #ffd4af, #ffe6a6, #e3f9b1);
+    height: 100%;
+    background-color: rgb(204, 204, 204);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+dt {
+    font-weight: bold;
 }
