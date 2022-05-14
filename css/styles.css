@@ -3,7 +3,18 @@ body {
     background-color: rgb(204, 204, 204);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+h1 {
+    font-size: 45px;
+}
+img {
+    width: 400px;
+    height: 600px;
+}
+dl {
+    line-height: 1.5;
+}
 
 dt {
     font-weight: bold;
+    font-size: 20px;
 }
